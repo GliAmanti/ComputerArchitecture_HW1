@@ -1,6 +1,7 @@
 # ComputerArchitecture_HW1
 * [Jserv hw1 link](https://hackmd.io/WblzsyE6Q1-1I5MlsTjKOA?view)
 * [Jserv quiz1 link](https://hackmd.io/@sysprog/arch2023-quiz1)
+* [Jserv lab1 link](https://hackmd.io/@sysprog/H1TpVYMdB)
 
 ### Following the instructions of Lab1: RV32I Simulator, you shall write RISC-V assembly programs (RV32I ISA) and output to the console with environment calls.
 * Choose one problem (A, B, or C) from Quiz1, translate it from C code to a complete RISC-V assembly program, and include the relevant test data.
